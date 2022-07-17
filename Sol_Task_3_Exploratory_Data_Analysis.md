@@ -1,0 +1,1 @@
+# [Click here](https://public.tableau.com/views/Task3-ExploratoryDataAnalysis/MainDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) to get Redirected to the Solution for Task 3 on Tableau Public.
